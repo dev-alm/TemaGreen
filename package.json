@@ -1,0 +1,21 @@
+{
+  "name": "Yoshi",
+  "displayName": "Yoshi-Theme",
+  "description": "descricao",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.82.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Yoshi",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Yoshi-color-theme.json"
+      }
+    ]
+  }
+}
